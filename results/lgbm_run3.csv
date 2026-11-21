@@ -1,0 +1,2 @@
+model,settings,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,train_time_sec,predict_time_sec
+LightGBM (run 3),"{'min_child_samples': 5, 'min_child_weight': 1e-06, 'min_split_gain': 0}",0.05719352106711836,0.06232772631896669,0.045656350830540864,0.029791274247837913,0.046924699352374345,62.6,0.9

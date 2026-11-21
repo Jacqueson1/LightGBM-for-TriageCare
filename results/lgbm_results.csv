@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,train_time_sec,predict_time_sec
+LightGBM (default),0.009077916578445902,0.00169350839778783,0.0024158736202974755,0.0009419743362036584,0.003537868815377373,82.8,1.0
